@@ -1,1 +1,0 @@
-print("Hello "+ input("Whats ur name nigga?"))
